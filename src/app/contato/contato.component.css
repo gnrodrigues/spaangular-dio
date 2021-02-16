@@ -1,0 +1,18 @@
+
+
+.contact_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    color:midnightblue
+}
+
+.profile-photo img{
+    height: 10rem;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 1.3rem 0;
+}
+
