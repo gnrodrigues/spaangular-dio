@@ -1,3 +1,6 @@
+  Esse projeto foi criado com 5 componentes próprios; home, contato, mensagem, música e redes-socias. O componente home é a página principal com seu path apontado para o “/” e fiz também uma outra rota para o componente mensagem “/mensagem” em que também utilizei uma função para passar os dados do componente home para o componente mensagem com recursos da classe Router e o método navigateByUrl. Como requisito do desafio também incorporei componentes do Angular Material, importei todos os modules no arquivo material.modules.ts. Demonstrei o data binding utilizando componente tabela do próprio Angular Material em que modifiquei a tabela para mostrar dados do PYPL.   
+
+
 # Spaangular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
